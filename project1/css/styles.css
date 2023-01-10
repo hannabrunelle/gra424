@@ -4,6 +4,10 @@
     background-color: white;
 }
 
+.outside:after {
+    display: block;
+    padding-bottom: 100%;
+  }
 
 .square1 {
     height: 71.428571%;
@@ -11,14 +15,29 @@
     background-color: black;
 }
 
+.square1:after {
+    display: block;
+    padding-bottom: 100%;
+  }
+
 .square2 {
     height: 42.857143%;
     width: 42.857143%;
     background-color: white;
 }
 
+.square2:after {
+    display: block;
+    padding-bottom: 100%;
+  }
+
 .square3 {
     height: 14.285714%;
     width: 14.285714%;
     background-color: black;
 }
+
+.square3:after {
+    display: block;
+    padding-bottom: 100%;
+  }
