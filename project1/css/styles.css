@@ -1,0 +1,24 @@
+.outside {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+}
+
+
+.square1 {
+    height: 71.428571%;
+    width: 71.428571%;
+    background-color: black;
+}
+
+.square2 {
+    height: 42.857143%;
+    width: 42.857143%;
+    background-color: white;
+}
+
+.square3 {
+    height: 14.285714%;
+    width: 14.285714%;
+    background-color: black;
+}
