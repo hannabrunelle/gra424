@@ -3,3 +3,7 @@
     font-family: courier;
     padding: .5rem;
 }
+
+h1 {
+    font-weight: 300;
+}
