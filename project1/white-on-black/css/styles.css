@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    background-color: white;
+    width: 100vw;
+    height: 100vw;
+}
+
+.square1 {
+    display: flex;
+    background-color: white;
+    border: .25pt solid black;
+    width: 71.428571vw;
+    height: 71.428571vw;
+    margin: auto;
+}
+
+.square2 {
+    display: flex;
+    background-color: black;
+    width: 42.857143vw;
+    height: 42.857143vw;
+    margin: auto;
+}
+
+.square3 {
+    display: flex;
+    background-color: white;
+    width: 14.285714vw;
+    height: 14.285714vw;
+    margin: auto;
+}
