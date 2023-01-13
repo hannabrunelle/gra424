@@ -76,7 +76,6 @@
 .square5 {
     display: flex;
     width: 14.285714vw;
-    background-color: brown;
     height: 14.285714vh;
     margin: auto;
     overflow: hidden;
