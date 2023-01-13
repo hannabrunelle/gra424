@@ -15,6 +15,12 @@
 }
 
 .square2 {
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+}
+
+.lines1 {
     display: flex;
     width: 42.857143vw;
     height: 42.857143vh;
@@ -45,4 +51,47 @@
     height: 42.857143vh;
     margin: auto;
     margin-right: 0;
+}
+
+.square3 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    top: -28.17384281vh;
+}
+
+.square4 {
+    display: flex;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    top: -57.14vh;
+}
+
+.square5 {
+    display: flex;
+    width: 14.285714vw;
+    background-color: brown;
+    height: 14.285714vh;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    top: -28.17384281vh;
+}
+
+.crunch-1 {
+    fill: white;
+}
+
+.crunch-2 {
+    fill: black;
+}
+
+.cls-2 {
+    fill: white;
 }

@@ -15,6 +15,12 @@
 }
 
 .square2 {
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+}
+
+.lines1 {
     display: flex;
     width: 42.857143vw;
     height: 42.857143vh;
@@ -46,3 +52,19 @@
     margin: auto;
     margin-right: 0;
 }
+
+.square3 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    margin: auto;
+    position: relative;
+    top: -28.17384281vh;
+}
+
+svg {
+    fill: white;
+}
+
+
+
