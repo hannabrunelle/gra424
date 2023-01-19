@@ -24,14 +24,6 @@
     transform: translate(-50%,-50%);
 }
 
-.midsect {
-    display: flex;
-    background-color: black;
-    width: 14.285714vw;
-    height: 14.285714vh;
-    margin: auto;
-}
-
 .color-1 {
     width: 28.571428vw;
     height: 28.571428vh;
