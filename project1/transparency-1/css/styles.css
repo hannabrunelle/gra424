@@ -8,7 +8,7 @@
     display: flex;
     width: 71.428571vw;
     height: 71.428571vh;
-    border: 1px solid rgb(0, 0, 0);
+    border: .25pt solid black;
     margin: auto;
 }
   
@@ -39,7 +39,7 @@
     right: 0;
 }
 
-.middle {
+.midsect {
     display: flex;
     width: 14.285714vw;
     height: 14.285714vh;
